@@ -1,18 +1,68 @@
 /**** HEADER ****/
 
 header {
-    display: flex;
-    border: 1px solid rgb(19, 18, 18);
+    width: 100%;
+    display: inline-block;
+    border-bottom: 1px outset black;
 }
 
 .home{
     float: left;
+    margin: 4px 0 0 8px;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: -2px;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+  
+li {
+    float: right;
+}
+  
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
 }
 
 .side-head{
     display: flex;
-    
+    float: right;
+    margin-right: 20px;
 }
+
 .option {
     display: flex;
+}
+
+.search input{
+    background-color: #979797;
+    background-image: url("./images/search.png");
+    background-repeat: no-repeat;
+    background-position: 96%;
+    background-size: 15px;
+    margin-top: 7px;
+    border-radius: 9px;
+    width: 210px;
+    height: 23px;
+    border-style: none;
+}
+
+.cart{
+    height: 24px;
+    margin-top: 8px;
+    padding-left: 15px;
+}
+
+.main-img{
+    background-image: url("./images/Banner.png");
+    height: 749px;
+    background-position: center;
+    background-size: 100%;
+    margin-top: -5px;
 }
