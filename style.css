@@ -123,6 +123,85 @@ header li a {
 
 /*** BODY ***/
 
+h2{
+    font-size: 40px;
+    position: relative;
+    
+    margin: 10%;
+}
 
+/***    CATEGORIES    ****/
+.categories{
+    display: flex;
+}
+
+.first-child-category{
+    padding-left: 15%;
+}
+
+.second-child-category{
+    padding-right: 15%;
+}
+
+.white-img1{
+    background-image: url(images/plus.svg);
+    background-repeat: no-repeat;
+    background-position: 95% 0%;
+    position: relative;
+    bottom: 145vh;
+    left: 17%;
+}
+
+.white-img2{
+    background-image: url(images/plus.svg);
+    background-repeat: no-repeat;
+    background-position: 95% 0%;
+    position: relative;
+    bottom: 145vh;
+    left: 28%;
+}
+
+.white-img3{
+    background-image: url(images/plus.svg);
+    background-repeat: no-repeat;
+    background-position: 95% 0%;
+    position: relative;
+    bottom: 70vh;
+    left: -31%;
+}
+
+.white-img4{
+    background-image: url(images/plus.svg);
+    background-repeat: no-repeat;
+    background-position: 95% 0%;
+    position: relative;
+    bottom: 70vh;
+    left: -20%;
+}
+
+/*****   OFFERS    *****/
+
+.offers {
+    display: flex;
+}
+
+.offers img{
+    padding: 15px;
+}
+
+.first-child-offer{
+    padding-left: 6%;
+}
+
+.second-child-offer{
+    padding-right: 6%;
+}
 
 /**** FOOTER ***/
+
+footer{
+    background-color: #727272;
+    height: 250px;
+    width: 100%;
+    margin-top: 20%;
+}
