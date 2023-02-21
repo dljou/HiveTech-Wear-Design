@@ -134,6 +134,10 @@ h2{
     display: flex;
 }
 
+.categories img{
+    padding-bottom: 70px;
+}
+
 .first-child-category{
     padding-left: 15%;
 }
@@ -147,7 +151,7 @@ h2{
     background-repeat: no-repeat;
     background-position: 95% 0%;
     position: relative;
-    bottom: 145vh;
+    bottom: 184vh;
     left: 17%;
 }
 
@@ -156,7 +160,7 @@ h2{
     background-repeat: no-repeat;
     background-position: 95% 0%;
     position: relative;
-    bottom: 145vh;
+    bottom: 184vh;
     left: 28%;
 }
 
@@ -165,7 +169,7 @@ h2{
     background-repeat: no-repeat;
     background-position: 95% 0%;
     position: relative;
-    bottom: 70vh;
+    bottom: 89vh;
     left: -31%;
 }
 
@@ -174,7 +178,7 @@ h2{
     background-repeat: no-repeat;
     background-position: 95% 0%;
     position: relative;
-    bottom: 70vh;
+    bottom: 89vh;
     left: -20%;
 }
 
