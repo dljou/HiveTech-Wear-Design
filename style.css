@@ -151,7 +151,7 @@ h2{
     background-repeat: no-repeat;
     background-position: 95% 0%;
     position: relative;
-    bottom: 184vh;
+    bottom: 124vh;
     left: 17%;
 }
 
@@ -160,7 +160,7 @@ h2{
     background-repeat: no-repeat;
     background-position: 95% 0%;
     position: relative;
-    bottom: 184vh;
+    bottom: 124vh;
     left: 28%;
 }
 
@@ -169,7 +169,7 @@ h2{
     background-repeat: no-repeat;
     background-position: 95% 0%;
     position: relative;
-    bottom: 89vh;
+    bottom: 60vh;
     left: -31%;
 }
 
@@ -178,7 +178,7 @@ h2{
     background-repeat: no-repeat;
     background-position: 95% 0%;
     position: relative;
-    bottom: 89vh;
+    bottom: 60vh;
     left: -20%;
 }
 
@@ -219,14 +219,14 @@ footer{
 }
 
 footer ul{
-    top: 14vh;
+    top: 9vh;
     position: relative;
     list-style-type: none;
     margin-top: -2px;
     margin-bottom: 0px;
     font-size: 17px;
     padding-left: 0px;
-    right: 27vh;
+    right: 19vh;
 }
 
 footer li a{
@@ -241,13 +241,13 @@ footer li a{
 
 .footer-txt p{
     position: relative;
-    top: 10vh;
-    right: 12vh;
+    top: 6vh;
+    right: 8vh;
 }
 
 .footer-icons{
     position: relative;
-    top: 10vh;
+    top: 7vh;
     float: right;
     margin-bottom: -50px;
     right: 8vh;
@@ -259,12 +259,12 @@ footer li a{
     display: flex;
     position: relative;
     height: 1px;
-    top: 22vh;
+    top: 14vh;
     left: 4vh;
 }
 
 .copy{
     position: relative;
-    top: 22vh;
+    top: 14vh;
     left: 5vh;
 }
