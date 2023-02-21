@@ -182,10 +182,47 @@ h2{
     left: -20%;
 }
 
+.cat-txt{
+    display: flex;
+}
+
+.txt1{
+    position: relative;
+    bottom: 138vh;
+    font-size: 40px;
+    left: 45vh;
+    color: #727272;
+}
+
+.txt2{
+    position: relative;
+    bottom: 138vh;
+    font-size: 40px;
+    left: 96vh;
+    color: #727272;
+}
+
+.txt3{
+    position: relative;
+    bottom: 74vh;
+    font-size: 40px;
+    left: 14vh;
+    color: #727272;
+}
+
+.txt4{
+    position: relative;
+    bottom: 74vh;
+    font-size: 40px;
+    left: 66vh;
+    color: #727272;
+}
+
 /*****   OFFERS    *****/
 
 .offers {
     display: flex;
+    margin-bottom: -500px;
 }
 
 .offers img{
@@ -200,13 +237,117 @@ h2{
     padding-right: 6%;
 }
 
+.off-txt{
+    margin: 0;
+}
+
+.off-txt1{
+    position: relative;
+    bottom: 138vh;
+    font-size: 35px;
+    left: 20vh;
+    color: #a8edf1;
+}
+
+.off-txt2{
+    position: relative;
+    bottom: 178vh;
+    font-size: 50px;
+    left: 114vh;
+    color: #ffffff;
+}
+
+.off-txt2-5{
+    position: relative;
+    bottom: 173vh;
+    font-size: 35px;
+    left: 103vh;
+    color: #fdfbfb;
+}
+
+.off-txt3{
+    position: relative;
+    bottom: 96vh;
+    font-size: 50px;
+    left: 30vh;
+    color: #ffffff;
+}
+
+.off-txt3-5{
+    position: relative;
+    bottom: 88vh;
+    font-size: 35px;
+    left: 20vh;
+    color: #ffffff;
+}
+
+.off-txt4{
+    position: relative;
+    bottom: 130vh;
+    font-size: 50px;
+    left: 114vh;
+    color: #ffffff;
+}
+
+.off-txt4-5{
+    position: relative;
+    bottom: 123vh;
+    font-size: 35px;
+    left: 103vh;
+    color: #ffffff;
+}
+
+.off-btn1{
+    position: relative;
+    bottom: 182vh;
+    font-size: 30px;
+    left: 40vh;
+    background-color: #88a1a1;
+    color: #a8edf1;
+    border: 0;
+    border-radius: 5%;
+}
+.off-btn2{
+    position: relative;
+    bottom: 182vh;
+    font-size: 30px;
+    left: 101vh;
+    background-color: #e7b93b;
+    color: #000000;
+    border: 0;
+    border-radius: 5%;
+}
+
+.off-btn3{
+    position: relative;
+    bottom: 65vh;
+    font-size: 30px;
+    right: 2vh;
+    background-color: #c2c2c2;
+    color: #000000;
+    border: 0;
+    border-radius: 5%;
+}
+
+.off-btn4{
+    position: relative;
+    bottom: 65vh;
+    font-size: 30px;
+    left: 56vh;
+    background-color: #b65858;
+    color: #ffffff;
+    border: 0;
+    border-radius: 5%;
+}
+
+
 /**** FOOTER ***/
 
 footer{
+    position: relative;
     background-color: #727272;
     height: 218px;
     width: 100%;
-    margin-top: 20%;
 }
 
 .footer-txt{
