@@ -126,8 +126,7 @@ header li a {
 h2{
     font-size: 40px;
     position: relative;
-    
-    margin: 10%;
+    margin: 8% 5% 6% 7%;
 }
 
 /***    CATEGORIES    ****/
@@ -201,7 +200,67 @@ h2{
 
 footer{
     background-color: #727272;
-    height: 250px;
+    height: 218px;
     width: 100%;
     margin-top: 20%;
+}
+
+.footer-txt{
+    display: flex;
+}
+
+.sal{
+    font-size: 20px;
+    padding-left: 6%;
+}
+
+footer ul{
+    top: 14vh;
+    position: relative;
+    list-style-type: none;
+    margin-top: -2px;
+    margin-bottom: 0px;
+    font-size: 17px;
+    padding-left: 0px;
+    right: 27vh;
+}
+
+footer li a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.supp{
+    font-size: 20px;
+}
+
+.footer-txt p{
+    position: relative;
+    top: 10vh;
+    right: 12vh;
+}
+
+.footer-icons{
+    position: relative;
+    top: 10vh;
+    float: right;
+    margin-bottom: -50px;
+    right: 8vh;
+}
+
+.bar{
+    width: 97%;
+    background-color: #e9e5e5;
+    display: flex;
+    position: relative;
+    height: 1px;
+    top: 22vh;
+    left: 4vh;
+}
+
+.copy{
+    position: relative;
+    top: 22vh;
+    left: 5vh;
 }
